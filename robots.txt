@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trinityhearingdallas.pages.dev/sitemap.xml
